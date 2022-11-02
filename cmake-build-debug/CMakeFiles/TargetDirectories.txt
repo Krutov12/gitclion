@@ -1,0 +1,3 @@
+/home/alexey/CLionProjects/gitclion/cmake-build-debug/CMakeFiles/gitclion.dir
+/home/alexey/CLionProjects/gitclion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexey/CLionProjects/gitclion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
